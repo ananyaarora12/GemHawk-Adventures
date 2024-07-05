@@ -40,7 +40,6 @@ Long ago, there was a sunny land where every creature lived in harmony and happi
 ## Contact Me
 For any questions or feedback, please contact me at:
 
-* Email: ipshitatandon@gmail.com
-* Linkedin: https://www.linkedin.com/in/ipshita-tandon-505157257/
-* GitHub: https://github.com/Ipshita-Tandon/localsphere
+* Email: arora.ananya05@gmail.com
+* Linkedin: https://www.linkedin.com/in/arora-ananya/
 
